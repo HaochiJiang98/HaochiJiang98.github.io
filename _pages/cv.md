@@ -11,6 +11,6 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer SCience, Charles University, Prague, 2028 (expected)
+* Ph.D in Computer Science, Charles University, Prague, 2028 (expected)
 * M.S. in Mathematics, Free University of Berlin, Germany, 2024
 * B.S. in Mathematics and Applied Mathematics, Southern University of Science and Technology, China, 2021
