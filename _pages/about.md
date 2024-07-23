@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-I will work in Theoretical Computer SCience at Charles University as a Ph.D. student.
+I will work in Theoretical Computer Science at Charles University as a Ph.D. student.
